@@ -38,6 +38,10 @@ nav:
     - AI编程: 02_AI_Coding.md
     - AI写作: 02_AI_Writing.md
     - Notion AI: 03_Notion.md
+  - 其他生产力工具: 
+    - Overleaf: 04_Overleaf.md
+    - git: 05_git.md
+
 
 extra:
   social:
